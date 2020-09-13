@@ -7,3 +7,8 @@ end
 def toadstool
   puts $status
 end
+
+def link
+  popular_catch_phrase = "It's Dangerous To Go Alone! Take This"
+  puts popular_catch_phrase
+end
